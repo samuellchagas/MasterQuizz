@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Samuell/Documents/Projetos/MasterQuizz/app/src/main/res/layout/login_fragment.xml" value="0.15670289855072464" />
+        <entry key="..\:/Users/Samuell/Documents/Projetos/MasterQuizz/app/src/main/res/drawable/background_question.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/Samuell/Documents/Projetos/MasterQuizz/app/src/main/res/layout/fragment_subjects.xml" value="0.22509057971014493" />
+        <entry key="..\:/Users/Samuell/Documents/Projetos/MasterQuizz/app/src/main/res/layout/login_fragment.xml" value="0.264" />
       </map>
     </option>
   </component>
